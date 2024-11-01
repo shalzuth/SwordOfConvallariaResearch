@@ -1,7 +1,7 @@
 # A Guide to Security Game Testing: Finding Exploits in Video Games
 
 ## Introduction
-In this guide, I’ll walk you through how I create tools to find exploits in video games for bug bounty programs. Specifically, I’ll focus on my research into the game *Sword of Convallaria*. This exploration is purely for educational purposes. As such, I have removed some of the assets as an exercize for the user to find.
+In this guide, I’ll walk you through how I create tools to find exploits in video games for bug bounty programs. Specifically, I’ll focus on my research into the game *Sword of Convallaria*. This exploration is purely for educational purposes. As such, I have removed some of the assets as an exercise for the user to find.
 ## Game Details
 *Sword of Convallaria* is available on both PC and mobile platforms, currently boasting around 2,000 concurrent active users on Steam (source: [SteamDB](https://steamdb.info/app/2526380/charts/)). The game monetizes through pay-to-win microtransactions and features PvP gameplay. Given its size, the developers should be concerned about potential exploits, yet they lack a formal bug bounty program.
 
